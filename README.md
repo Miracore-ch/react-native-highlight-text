@@ -5,9 +5,9 @@ A simple and efficient React Native component for highlighting parts of text tha
 ## Installation
 
 ```bash
-npm install react-native-highlight-text
+npm install @miracore-ch/react-native-highlight-text
 # or
-yarn add react-native-highlight-text
+yarn add @miracore-ch/react-native-highlight-text
 ```
 
 ## Usage
